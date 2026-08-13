@@ -1,0 +1,294 @@
+customer_id,customer_name,gender,city,state,customer_segment
+1,Advik Jain,Female,Indore,Madhya Pradesh,Regular
+2,Sanya Singh,Female,Hyderabad,Telangana,Premium
+3,Riya Jain,Male,Hyderabad,Telangana,Regular
+4,Sanya Jain,Female,Indore,Madhya Pradesh,New
+5,Sanya Joshi,Female,Ahmedabad,Gujarat,Regular
+6,Dev Bansal,Male,Lucknow,Uttar Pradesh,Regular
+7,Aarav Sharma,Female,Kolkata,West Bengal,Premium
+8,Ishita Singh,Male,Hyderabad,Telangana,Regular
+9,Riya Sharma,Male,Mumbai,Maharashtra,New
+10,Aman Khan,Male,Kolkata,West Bengal,New
+11,Dev Chopra,Female,Hyderabad,Telangana,Regular
+12,Manav Sharma,Female,Indore,Madhya Pradesh,Regular
+13,Kriti Mehta,Female,Jaipur,Rajasthan,Regular
+14,Karan Agarwal,Male,Bengaluru,Karnataka,Regular
+15,Manav Bansal,Female,Jaipur,Rajasthan,Regular
+16,Aditi Patel,Female,Bengaluru,Karnataka,Premium
+17,Ishita Chopra,Male,Indore,Madhya Pradesh,New
+18,Ananya Singh,Female,Lucknow,Uttar Pradesh,Regular
+19,Meera Verma,Female,Kolkata,West Bengal,Regular
+20,Vivaan Sharma,Male,Indore,Madhya Pradesh,Regular
+21,Rahul Singh,Female,Hyderabad,Telangana,New
+22,Dev Chopra,Male,Jaipur,Rajasthan,New
+23,Riya Mehta,Male,Indore,Madhya Pradesh,Regular
+24,Rohan Singh,Female,Pune,Maharashtra,New
+25,Dev Bansal,Male,Jaipur,Rajasthan,Premium
+26,Arjun Joshi,Other,Mumbai,Maharashtra,Regular
+27,Aditi Patel,Female,Mumbai,Maharashtra,Regular
+28,Ananya Sharma,Male,Ahmedabad,Gujarat,Regular
+29,Meera Singh,Male,Jaipur,Rajasthan,Regular
+30,Nisha Patel,Male,Hyderabad,Telangana,New
+31,Sanya Singh,Female,Bengaluru,Karnataka,Premium
+32,Aarav Chopra,Male,Jaipur,Rajasthan,Regular
+33,Ananya Singh,Male,Jaipur,Rajasthan,New
+35,Tanya Mehta,Other,Mumbai,Maharashtra,Regular
+36,Simran Jain,Male,Jaipur,Rajasthan,Regular
+37,Rahul Patel,Female,Lucknow,Uttar Pradesh,Regular
+38,Priya Patel,Male,Hyderabad,Telangana,Regular
+39,Tanya Khan,Male,Jaipur,Rajasthan,Regular
+40,Rahul Jain,Female,Lucknow,Uttar Pradesh,New
+41,Meera Joshi,Female,Pune,Maharashtra,Regular
+42,Advik Chopra,Male,Mumbai,Maharashtra,Regular
+43,Kriti Patel,Male,Mumbai,Maharashtra,New
+44,Aman Agarwal,Male,Lucknow,Uttar Pradesh,Regular
+45,Priya Patel,Male,Indore,Madhya Pradesh,Premium
+46,Karan Chopra,Male,Ahmedabad,Gujarat,Regular
+47,Dev Singh,Male,Hyderabad,Telangana,New
+48,Rahul Singh,Male,Jaipur,Rajasthan,Regular
+49,Kriti Agarwal,Male,Ahmedabad,Gujarat,Premium
+50,Ishita Chopra,Male,Ahmedabad,Gujarat,Regular
+51,Aditi Patel,Female,Kolkata,West Bengal,Regular
+52,Meera Mehta,Female,Bengaluru,Karnataka,Regular
+53,Nisha Mehta,Male,Bengaluru,Karnataka,Regular
+54,Tanya Verma,Female,Ahmedabad,Gujarat,Premium
+55,Simran Jain,Male,Pune,Maharashtra,Regular
+56,Rahul Patel,Female,Ahmedabad,Gujarat,Regular
+57,Nisha Agarwal,Female,Jaipur,Rajasthan,Regular
+58,Rohan Jain,Male,Delhi,Delhi,Regular
+59,Dev Khan,Male,Chandigarh,Chandigarh,Regular
+60,Nisha Bansal,Female,Ahmedabad,Gujarat,New
+61,Rahul Bansal,Male,Chandigarh,Chandigarh,Regular
+62,Aditi Singh,Female,Delhi,Delhi,Premium
+63,Rahul Agarwal,Male,Delhi,Delhi,Premium
+64,Yash Bansal,Female,Chennai,Tamil Nadu,New
+65,Ananya Agarwal,Female,Ahmedabad,Gujarat,Regular
+66,Arjun Verma,Male,Delhi,Delhi,Regular
+67,Riya Chopra,Female,Jaipur,Rajasthan,Premium
+68,Ishita Sharma,Female,Jaipur,Rajasthan,Regular
+69,Sanya Bansal,Male,Mumbai,Maharashtra,New
+70,Nisha Chopra,Male,Kolkata,West Bengal,Premium
+71,Dev Singh,Female,Lucknow,Uttar Pradesh,Regular
+72,Karan Joshi,Female,Pune,Maharashtra,New
+73,Rohan Joshi,Male,Hyderabad,Telangana,New
+74,Advik Agarwal,Female,Ahmedabad,Gujarat,Regular
+75,Yash Chopra,Female,Kolkata,West Bengal,New
+76,Kabir Jain,Male,Chennai,Tamil Nadu,Premium
+77,Riya Mehta,Other,Bengaluru,Karnataka,New
+78,Aman Verma,Female,Jaipur,Rajasthan,Regular
+79,Ananya Patel,Male,Chandigarh,Chandigarh,Regular
+80,Meera Bansal,Female,Lucknow,Uttar Pradesh,Regular
+81,Sanya Gupta,Female,Chandigarh,Chandigarh,Regular
+82,Ishita Jain,Female,Jaipur,Rajasthan,New
+83,Tanya Joshi,Female,Chennai,Tamil Nadu,New
+84,Karan Mehta,Female,Bengaluru,Karnataka,Regular
+85,Arjun Singh,Male,Pune,Maharashtra,Regular
+86,Advik Sharma,Female,Ahmedabad,Gujarat,New
+87,Pooja Bansal,Female,Chandigarh,Chandigarh,New
+88,Karan Khan,Male,Chandigarh,Chandigarh,Regular
+89,Vivaan Agarwal,Female,Chandigarh,Chandigarh,Regular
+90,Ananya Bansal,Male,Bengaluru,Karnataka,Regular
+91,Dev Chopra,Female,Mumbai,Maharashtra,Regular
+92,Riya Joshi,Male,Delhi,Delhi,New
+93,Sanya Mehta,Male,Hyderabad,Telangana,Premium
+94,Priya Sharma,Female,Indore,Madhya Pradesh,Regular
+95,Tanya Sharma,Male,Delhi,Delhi,Regular
+96,Rohan Jain,Female,Bengaluru,Karnataka,New
+97,Kabir Singh,Female,Ahmedabad,Gujarat,New
+98,Rahul Singh,Male,Jaipur,Rajasthan,Regular
+99,Nisha Verma,Female,Jaipur,Rajasthan,Regular
+100,Vivaan Jain,Female,Lucknow,Uttar Pradesh,Premium
+101,Yash Chopra,Female,Jaipur,Rajasthan,Regular
+102,Pooja Sharma,Female,Hyderabad,Telangana,Regular
+103,Neha Singh,Male,Hyderabad,Telangana,New
+104,Yash Gupta,Male,Delhi,Delhi,Regular
+105,Aditi Verma,Female,Kolkata,West Bengal,Regular
+106,Kriti Agarwal,Female,Mumbai,Maharashtra,Regular
+107,Manav Sharma,Female,Lucknow,Uttar Pradesh,Regular
+108,Aditi Patel,Male,Ahmedabad,Gujarat,Regular
+109,Rohan Bansal,Female,Mumbai,Maharashtra,Regular
+110,Neha Patel,Male,Chennai,Tamil Nadu,Regular
+111,Arjun Singh,Female,Indore,Madhya Pradesh,Regular
+112,Nisha Mehta,Male,Ahmedabad,Gujarat,Regular
+113,Simran Patel,Female,Jaipur,Rajasthan,Regular
+114,Aditi Sharma,Female,Lucknow,Uttar Pradesh,Regular
+115,Priya Joshi,Male,Bengaluru,Karnataka,Regular
+116,Rohan Sharma,Female,Lucknow,Uttar Pradesh,Premium
+117,Dev Khan,Male,Bengaluru,Karnataka,Regular
+118,Manav Gupta,Male,Lucknow,Uttar Pradesh,Regular
+119,Arjun Jain,Female,Indore,Madhya Pradesh,Regular
+120,Arjun Singh,Female,Kolkata,West Bengal,Regular
+121,Pooja Sharma,Male,Hyderabad,Telangana,Regular
+122,Tanya Verma,Female,Kolkata,West Bengal,Regular
+124,Karan Singh,Male,Lucknow,Uttar Pradesh,New
+125,Aditi Bansal,Female,Chennai,Tamil Nadu,New
+126,Simran Patel,Male,Ahmedabad,Gujarat,Regular
+127,Neha Khan,Female,Hyderabad,Telangana,Regular
+128,Vivaan Mehta,Other,Pune,Maharashtra,Regular
+129,Neha Verma,Other,Bengaluru,Karnataka,Regular
+130,Nisha Joshi,Female,Delhi,Delhi,Regular
+132,Dev Sharma,Male,Pune,Maharashtra,Premium
+133,Advik Patel,Female,Ahmedabad,Gujarat,Regular
+134,Neha Singh,Male,Jaipur,Rajasthan,Regular
+135,Rahul Chopra,Male,Delhi ,Delhi,Regular
+136,Riya Joshi,Male,Jaipur,Rajasthan,Regular
+137,Tanya Mehta,Female,Chandigarh,Chandigarh,New
+138,Neha Joshi,Male,Delhi,Delhi,New
+139,Aman Chopra,Female,Chennai,Tamil Nadu,Regular
+140,Arjun Mehta,Female,Ahmedabad,Gujarat,Regular
+141,Ananya Joshi,Male,Lucknow,Uttar Pradesh,Regular
+142,Vivaan Singh,Female,Bengaluru,Karnataka,Regular
+143,Pooja Sharma,Male,Jaipur,Rajasthan,New
+144,Nisha Jain,Male,Mumbai,Maharashtra,Regular
+145,Vivaan Agarwal,Female,Pune,Maharashtra,Regular
+146,Meera Bansal,Other,Pune,Maharashtra,Regular
+147,Riya Bansal,Male,Hyderabad,Telangana,Regular
+148,Rahul Mehta,Female,Indore,Madhya Pradesh,Premium
+149,Priya Verma,Female,Chennai,Tamil Nadu,Premium
+150,Riya Verma,Female,Chandigarh,Chandigarh,Regular
+151,Nisha Verma,Female,Pune,Maharashtra,Regular
+152,Neha Agarwal,Female,Chennai,Tamil Nadu,Regular
+153,Advik Bansal,Female,Chandigarh,Chandigarh,Regular
+154,Pooja Sharma,Female,Chennai,Tamil Nadu,Regular
+155,Rohan Verma,Female,Ahmedabad,Gujarat,Premium
+156,Tanya Chopra,Male,Lucknow,Uttar Pradesh,Premium
+157,Vivaan Joshi,Female,Bengaluru,Karnataka,Regular
+158,Simran Agarwal,Male,Pune,Maharashtra,Regular
+159,Aman Jain,Female,Mumbai,Maharashtra,Regular
+160,Simran Joshi,Female,Lucknow,Uttar Pradesh,Regular
+161,Arjun Verma,Female,Kolkata,West Bengal,Regular
+162,Yash Bansal,Female,Delhi,Delhi,Regular
+163,Karan Bansal,Male,Mumbai,Maharashtra,Regular
+164,Kabir Mehta,Male,Chennai,Tamil Nadu,Regular
+165,Aman Agarwal,Male,Chandigarh,Chandigarh,Regular
+166,Dev Joshi,Female,Jaipur,Rajasthan,Regular
+167,Vivaan Sharma,Female,Hyderabad,Telangana,Regular
+168,Nisha Bansal,Female,Chennai,Tamil Nadu,Regular
+169,Tanya Khan,Male,Mumbai,Maharashtra,Premium
+170,Yash Gupta,Male,Bengaluru,Karnataka,Regular
+171,Nisha Verma,Male,Jaipur,Rajasthan,New
+172,Rahul Agarwal,Female,Mumbai,Maharashtra,Premium
+173,Kriti Chopra,Female,Delhi,Delhi,Regular
+174,Kriti Singh,Male,Chennai,Tamil Nadu,Regular
+175,Aman Joshi,Male,Ahmedabad,Gujarat,Regular
+176,Vivaan Gupta,Male,Mumbai,Maharashtra,Regular
+177,Advik Bansal,Female,Pune,Maharashtra,Regular
+178,Kriti Gupta,Female,Hyderabad,Telangana,Regular
+179,Nisha Singh,Female,Pune,Maharashtra,New
+180,Priya Mehta,Male,Pune,Maharashtra,Regular
+181,Kriti Chopra,Female,Pune,Maharashtra,Regular
+182,Aditi Mehta,Male,Chandigarh,Chandigarh,Premium
+183,Manav Sharma,Female,Lucknow,Uttar Pradesh,New
+184,Tanya Gupta,Female,Mumbai,Maharashtra,Regular
+186,Ananya Agarwal,Female,Lucknow,Uttar Pradesh,Regular
+187,Neha Patel,Female,Delhi,Delhi,Regular
+188,Kabir Gupta,Male,Jaipur,Rajasthan,Premium
+189,Simran Agarwal,Male,Bengaluru,Karnataka,Regular
+190,Vivaan Gupta,Female,Chandigarh,Chandigarh,Regular
+191,Sanya Sharma,Male,Lucknow,Uttar Pradesh,Regular
+192,Aditi Chopra,Female,Bengaluru,Karnataka,Regular
+193,Nisha Agarwal,Female,Ahmedabad,Gujarat,Regular
+194,Tanya Bansal,Female,Hyderabad,Telangana,Regular
+195,Priya Khan,Male,Bengaluru,Karnataka,Regular
+196,Ananya Verma,Female,Mumbai,Maharashtra,Premium
+197,Sanya Bansal,Female,Delhi,Delhi,Regular
+198,Ishita Khan,Male,Jaipur,Rajasthan,Premium
+199,Rahul Joshi,Male,Hyderabad,Telangana,Premium
+200,Karan Singh,Female,Bengaluru,Karnataka,Regular
+201,Tanya Sharma,Female,Lucknow,Uttar Pradesh,Regular
+202,Rohan Khan,Female,Mumbai,Maharashtra,Premium
+203,Riya Patel,Other,Bengaluru,Karnataka,Regular
+204,Priya Bansal,Male,Lucknow,Uttar Pradesh,Regular
+205,Rahul Jain,Male,Jaipur,Rajasthan,New
+206,Advik Mehta,Male,Hyderabad,Telangana,Regular
+207,Kriti Gupta,Female,Pune,Maharashtra,Regular
+208,Meera Sharma,Male,Chennai,Tamil Nadu,Regular
+209,Arjun Mehta,Male,Indore,Madhya Pradesh,Regular
+210,Meera Khan,Female,Jaipur,Rajasthan,Regular
+211,Rohan Agarwal,Male,Chandigarh,Chandigarh,Regular
+212,Aditi Bansal,Male,Hyderabad,Telangana,New
+213,Arjun Bansal,Male,Hyderabad,Telangana,Premium
+214,Simran Chopra,Female,Kolkata,West Bengal,New
+215,Rahul Joshi,Female,Hyderabad,Telangana,Regular
+216,Arjun Khan,Male,Delhi,Delhi,Regular
+217,Aarav Mehta,Male,Kolkata,West Bengal,Premium
+218,Karan Bansal,Female,Lucknow,Uttar Pradesh,Regular
+219,Manav Khan,Female,Indore,Madhya Pradesh,Regular
+220,Dev Verma,Male,Indore,Madhya Pradesh,Regular
+221,Simran Singh,Male,Lucknow,Uttar Pradesh,Regular
+222,Tanya Agarwal,Female,Mumbai,Maharashtra,Regular
+223,Priya Jain,Female,Jaipur,Rajasthan,New
+224,Rahul Singh,Female,Delhi,Delhi,Regular
+225,Arjun Patel,Female,Chennai,Tamil Nadu,Regular
+226,Advik Mehta,Male,Delhi,Delhi,Regular
+227,Ishita Singh,Female,Kolkata,West Bengal,Premium
+228,Vivaan Joshi,Female,Ahmedabad,Gujarat,Regular
+229,Priya Patel,Female,Chennai,Tamil Nadu,Regular
+230,Kabir Mehta,Male,Chandigarh,Chandigarh,Regular
+231,Tanya Gupta,Female,Chennai,Tamil Nadu,Regular
+232,Arjun Khan,Female,Chennai,Tamil Nadu,New
+233,Aarav Patel,Female,Chennai,Tamil Nadu,Regular
+234,Rohan Joshi,Male,Indore,Madhya Pradesh,Premium
+235,Kabir Chopra,Female,Hyderabad,Telangana,New
+236,Nisha Jain,Male,Lucknow,Uttar Pradesh,Regular
+237,Meera Gupta,Female,Pune,Maharashtra,Regular
+239,Aditi Chopra,Female,Chennai,Tamil Nadu,Regular
+240,Meera Agarwal,Female,Kolkata,West Bengal,Regular
+241,Priya Mehta,Female,Bengaluru,Karnataka,Premium
+242,Ananya Bansal,Female,Jaipur,Rajasthan,Regular
+243,Aarav Patel,Male,Lucknow,Uttar Pradesh,New
+244,Priya Chopra,Female,Pune,Maharashtra,Regular
+245,Neha Sharma,Male,Bengaluru,Karnataka,Premium
+246,Aditi Gupta,Male,Pune,Maharashtra,New
+247,Priya Jain,Male,Indore,Madhya Pradesh,Premium
+248,Dev Patel,Male,Indore,Madhya Pradesh,New
+249,Manav Chopra,Female,Ahmedabad,Gujarat,Regular
+250,Kabir Singh,Male,Kolkata,West Bengal,Regular
+251,Kabir Gupta,Male,Mumbai,Maharashtra,Premium
+252,Yash Chopra,Female,Indore,Madhya Pradesh,Regular
+253,Simran Khan,Female,Indore,Madhya Pradesh,Regular
+254,Karan Mehta,Female,Chennai,Tamil Nadu,Regular
+255,Priya Joshi,Male,Hyderabad,Telangana,Regular
+256,Ishita Patel,Male,Kolkata,West Bengal,Regular
+258,Vivaan Mehta,Female,Delhi,Delhi,Regular
+259,Kabir Bansal,Female,Kolkata,West Bengal,New
+260,Neha Patel,Male,Mumbai,Maharashtra,Regular
+261,Advik Patel,Male,Bengaluru,Karnataka,Regular
+262,Yash Chopra,Female,Jaipur,Rajasthan,New
+263,Aarav Verma,Male,Lucknow,Uttar Pradesh,New
+265,Tanya Khan,Male,Indore,Madhya Pradesh,Regular
+266,Kabir Joshi,Female,Hyderabad,Telangana,Premium
+267,Vivaan Khan,Female,Delhi,Delhi,Regular
+268,Meera Bansal,Female,Pune,Maharashtra,Premium
+269,Arjun Joshi,Female,Chandigarh,Chandigarh,Regular
+270,Sanya Joshi,Male,Mumbai,Maharashtra,Regular
+271,Sanya Khan,Male,Hyderabad,Telangana,Regular
+272,Yash Patel,Female,Delhi,Delhi,New
+273,Ishita Bansal,Male,Mumbai,Maharashtra,Premium
+274,Aman Sharma,Male,Hyderabad,Telangana,New
+275,Manav Verma,Male,Ahmedabad,Gujarat,Premium
+276,Manav Gupta,Female,Jaipur,Rajasthan,Regular
+277,Simran Gupta,Female,Pune,Maharashtra,Premium
+278,Meera Agarwal,Female,Mumbai,Maharashtra,Regular
+279,Arjun Gupta,Female,Chennai,Tamil Nadu,Regular
+280,Vivaan Verma,Female,Hyderabad,Telangana,New
+281,Kriti Mehta,Male,Ahmedabad,Gujarat,Regular
+282,Priya Khan,Male,Hyderabad,Telangana,Regular
+283,Tanya Bansal,Female,Kolkata,West Bengal,New
+284,Riya Sharma,Female,Chennai,Tamil Nadu,New
+285,Priya Bansal,Male,Lucknow,Uttar Pradesh,Regular
+286,Rahul Chopra,Male,Kolkata,West Bengal,Regular
+287,Karan Sharma,Male,Kolkata,West Bengal,Regular
+288,Riya Mehta,Female,Chandigarh,Chandigarh,Premium
+289,Manav Chopra,Male,Bengaluru,Karnataka,New
+290,Ishita Mehta,Male,Pune,Maharashtra,Regular
+291,Kabir Mehta,Male,Ahmedabad,Gujarat,Regular
+292,Advik Chopra,Male,Lucknow,Uttar Pradesh,New
+293,Neha Gupta,Female,Kolkata,West Bengal,Regular
+294,Manav Bansal,Male,Delhi,Delhi,Regular
+295,Sanya Verma,Male,Delhi,Delhi,Regular
+296,Simran Sharma,Female,Hyderabad,Telangana,Regular
+297,Priya Patel,Female,Delhi,Delhi,New
+298,Rahul Gupta,Female,Delhi,Delhi,New
+299,Tanya Chopra,Female,Indore,Madhya Pradesh,New
+300,Aarav Singh,Female,Ahmedabad,Gujarat,Regular
